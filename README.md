@@ -16,6 +16,8 @@ Model: Contains python notebook. <br />
 Data Collection: Google images (Fatkun Batch Download Image). <br />
 Images_dataset: Dataset used for our model training. <br />
 
+Data Set: https://drive.google.com/drive/folders/1vavIn1flpJv3LWHO6noYuUwuD2ETkoPU?usp=sharing <br/>
+
 # Technologies used in this project,
 
 Python <br />
